@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="in.co.rays.ors.util.DataUtility"/>
+<fullyQualifiedTypeName name="in.co.rays.ors.model.CollegeModel"/>
+<fullyQualifiedTypeName name="in.co.rays.ors.model.CourseModel"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="in.co.rays.ors.exception.DatabaseException"/>
+<fullyQualifiedTypeName name="in.co.rays.ors.util.PropertyReader"/>
+<fullyQualifiedTypeName name="in.co.rays.ors.bean.FacultyBean"/>
+</qualifiedTypeNameHistroy>

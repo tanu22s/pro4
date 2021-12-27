@@ -1,0 +1,52 @@
+package in.co.rays.ors.bean;
+
+import java.util.Date;
+
+/**
+ * Faculty JavaBean encapsulates Faculty attributes
+ * 
+ * @author Tanvi
+ * @Version:(4.14.0)
+ * 
+ */
+public class FacultyBean extends BaseBean {
+
+ 
+	private String firstName;
+
+   
+	private String lastName;
+
+    
+	private String Gender;
+
+    
+	private String loginId;
+	
+	
+	private String mobileno;
+	
+	
+	
+
+	private long collegeid;
+
+   
+	private String collegeName;
+
+  
+	private long courseId;
+
+   
+	private String courseName;
+
+	
+	private Date DOB;
+  
+	private long subjectId;
+
+	private String subjectName;
+
+
+  
+	
